@@ -8,6 +8,6 @@ Check the findings need to introduce some analytical solutions to make this prob
 
 Tools and techs used: Python(libs: Pandas, numpy, matplotlib, seaborn, scikit-learn), Jupyter Notebook(Kaggle Environment)
 Data Source: IEA: Global Energy Review 2025 Dataset
-Github for code storage
+Github for code storage and implementing the website (will be updated regularly)
 
 Research Interests: Climate Change & Energy Policy, Data Science for Sustainability, Sectoral Impact Analysis, Regional Comparisons
